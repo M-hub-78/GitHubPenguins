@@ -25,8 +25,7 @@ The dataset includes the following morphological measurements:
 |----------|-------------|
 | `bill_length_mm` | [TODO: Include range] |
 | `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+
 
 ## What the Analysis Does
 
